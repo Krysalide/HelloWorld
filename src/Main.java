@@ -3,6 +3,7 @@ public class Main {
     public static void main(String[] args) {
 
             System.out.println("quelques valeurs de variables primitives:");
+            // change just to test
             boolean isTrue= true;
             System.out.println(isTrue);
             byte numeric =-128;
